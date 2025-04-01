@@ -1,4 +1,4 @@
-public class Project3 {
+public class TypeCasting {
     public static void main(String[] args) {
         // 주어진 값들
         double doubleValue = 2.71828;
