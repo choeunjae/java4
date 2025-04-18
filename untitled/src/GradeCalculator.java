@@ -4,7 +4,7 @@ public class GradeCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("점수를 입력하세요: ");
+        System.out.println("점수를 입력하세요: ");
         int score = scanner.nextInt();
         String grade;
 
