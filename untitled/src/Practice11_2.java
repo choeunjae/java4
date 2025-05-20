@@ -15,10 +15,7 @@ public class Practice11_2 {
                 System.out.println("입력 완료! 프로그램을 종료합니다.");
                 break;
             }
-
-            else {
                 System.out.println("잘못된 입력입니다. 다시 입력하세요.");
-            }
 
             if (i == 9) {
                 System.out.println("입력 기회를 모두 사용했습니다.");
